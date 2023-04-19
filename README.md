@@ -1,5 +1,8 @@
 # Blockchain
 
+Autor: José Ricardo Avila Chávez
+Matrícula: 345635
+
 1) Genera una clase Block como modelo con los siguientes atributos: 
 
    a) Index = Identificador de la posición del bloque en la cadena.
